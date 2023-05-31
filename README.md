@@ -3,5 +3,5 @@ Quantum application notebooks for our cloud-accessible platform Ascella. The not
 - a *variational quantum eigensolver algorithm*. 
 - a *classification task* using a photon-native variationnal algorithm. 
 - the code to reproduce the *benchmarking* of quantum gates.
-- the generation of *heralded GHZ$_3$ states*.  
+- the generation of *heralded 3-GHZ states*.
 - a *Boson Sampling* example.
